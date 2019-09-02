@@ -4,6 +4,7 @@ i made this project in my first semester of engineering, thats why it is very ba
 Please modify the code wherever I have put a comment. You need to provide your own credentials for smpt2go mail services. Also you need to provide your own paths for the files which are created during the program.
 
 Libraries Used
+
 -tkinter
 -smtplib
 -email
@@ -14,3 +15,5 @@ Libraries Used
 -os
 
 You can modify this project for as many subjects as you want.
+
+Password for Admin Login is - 'L6QNL38WGT' which has been hardcoded in the code and can be changed.
