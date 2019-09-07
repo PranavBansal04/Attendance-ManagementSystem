@@ -31,7 +31,7 @@ The main login and signup console of the App:<br />
 
 
 
-![alt erext](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample3.PNG)
+![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample3.PNG)
 
 
 
