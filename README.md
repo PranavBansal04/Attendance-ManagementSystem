@@ -21,22 +21,31 @@ Password for Admin Login is - 'L6QNL38WGT' which has been hardcoded in the code 
 Below are some sample images:<br />
 
 The main login and signup console of the App:<br />
+<br />
+<br />
 
-![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample1.PNG)<br />
+![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample1.PNG)<br /><br />
 
 
 Dashboard for the student or student profile displaying attendance in different subjects along with many other details: <br />
+<br />
+<br />
 
-      ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample2.PNG)<br />
+   ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample2.PNG)
+   <br /><br />
 
-Admin Dashboard to enter attendance for a particular subject and viewing overall data: <br />
+Admin Dashboard to enter attendance for a particular subject and viewing overall data: <br /><br /><br />
 ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample3.PNG)
 
+<br /><br /><br />
 
+Entering attendance data: <br /><br /><br />
 
 ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample4.PNG)
 
+<br /><br /><br />
 
+Overall data:<br /><br /><br />
 
 ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample5.PNG)
 
