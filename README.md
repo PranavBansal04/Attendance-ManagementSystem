@@ -17,3 +17,5 @@ Libraries Used<br />
 You can modify this project for as many subjects as you want.<br />
 
 Password for Admin Login is - 'L6QNL38WGT' which has been hardcoded in the code and can be changed.<br />
+
+![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample1.PNG)
