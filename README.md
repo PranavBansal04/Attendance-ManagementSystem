@@ -22,15 +22,14 @@ Below are some sample images:<br />
 
 The main login and signup console of the App:<br />
 
-![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample1.PNG)
+![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample1.PNG)<br />
 
 
+Dashboard for the student or student profile displaying attendance in different subjects along with many other details: <br />
 
+      ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample2.PNG)<br />
 
-![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample2.PNG)
-
-
-
+Admin Dashboard to enter attendance for a particular subject and viewing overall data: <br />
 ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample3.PNG)
 
 
