@@ -18,4 +18,27 @@ You can modify this project for as many subjects as you want.<br />
 
 Password for Admin Login is - 'L6QNL38WGT' which has been hardcoded in the code and can be changed.<br />
 
+Below are some sample images:<br />
+
+The main login and signup console of the App:<br />
+
 ![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample1.PNG)
+
+
+
+
+![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample2.PNG)
+
+
+
+![alt erext](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample3.PNG)
+
+
+
+![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample4.PNG)
+
+
+
+![alt text](https://github.com/PranavBansal04/Attendance-ManagementSystem/blob/master/sample5.PNG)
+
+
